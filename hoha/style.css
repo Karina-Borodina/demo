@@ -1,0 +1,136 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.logo{
+    height: 450px; 
+    width: 100%; 
+    position: absolute; 
+    z-index: -1; 
+    background-image: url(https://th.bing.com/th/id/OIG.4dHeaPP0y5Lumc_YNFD4?pid=ImgGn); 
+    background-size: cover; 
+    background-position: center; 
+    opacity: 0.4; 
+}
+.button{
+  margin-left: 65em;
+  background-color: rgb(192, 100, 24);
+  color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+  text-decoration: none;
+
+} 
+
+header p { 
+    padding: 1em 300px; 
+    text-align: center; 
+    font-weight: bold;
+    font-size: 30px;
+ 
+} 
+header h2{
+    padding: 60px 60px;
+    margin-left: 30px;
+    font-size:45px;
+}
+.section1 h1 {
+    position: absolute;
+    top: 80%;
+    left: 7%;transform: translate(-50%,-50%);
+    z-index: 1;
+}
+.p1{
+position: absolute;
+top: 95%;
+left: 45%;
+font-size: 24px;
+
+}
+
+.p2 {
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    font-size: 24px;
+}
+.section1 img{
+    width: 500px;
+    position: absolute;
+    top: 75%;
+    left: 0px;
+}
+.section-text h1 {
+    font-size: 35px;
+    position: absolute;
+    top: 42%;
+    left: 25%;
+    color:  rgb(192, 100, 24) ;
+}
+.section-text{
+    position: absolute;
+    top: 157%;
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    border-radius: 20px;
+}
+.personal.blos{
+    position: absolute;
+    top: 180%;
+    left: 60%;
+    width: 30%;
+    height: 70%;
+    border-radius: 40px;
+    padding: 40px;
+    background-color: black;
+   
+}
+
+.personal.blos h2{
+    color: aliceblue;
+    top: 20%;
+    margin-left: 23%;
+}
+ .row{
+    color: aliceblue;
+    padding-top: 20px;
+    left: 17%;
+    position: relative;
+ }
+
+ 
+
+.but{
+    background-color: rgb(192, 100, 24);
+    color: whitesmoke;
+    padding: 3px 3px;
+    margin-right: 10px ;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    margin-left: 65%;
+    margin-top: 5%;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: rgb(10, 10, 10);
+    padding: 7px 10px;
+
+}
+
+iframe{
+    width: 60vw;
+    height: 40vw;
+    filter: invert(100%);
+    padding: 30px;
+}
+.kar{
+    position: relative;
+    margin-left:-270%;
+    margin-top: -80%;
+    
+}
+
+
